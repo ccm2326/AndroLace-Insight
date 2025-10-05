@@ -1,0 +1,29 @@
+# Render Configuration
+
+# Build settings for Render Static Site deployment
+# This file helps Render understand how to build and deploy the application
+
+# Build command (required)
+# npm run build
+
+# Publish directory (required)
+# dist
+
+# Node version (optional)
+# 18
+
+# Environment variables (optional)
+# NODE_ENV=production
+
+# Install command (optional, defaults to npm install)
+# npm ci
+
+# Build settings
+# - Build command: npm run build
+# - Publish directory: dist
+# - Node version: 18
+# - Environment: production
+
+# The application will be available at the URL provided by Render
+# after successful deployment
+
